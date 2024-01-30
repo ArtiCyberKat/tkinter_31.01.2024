@@ -10,7 +10,7 @@ x = 10
 y = 10
 vx = 1
 vy = 1
-ay = 0#0.2
+ay = 0.2
 
 accuracy = []
 
